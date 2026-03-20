@@ -12,7 +12,7 @@
 
 ## 📖 Background & Goal
 
-This project is an **unofficial MCP (Model Context Protocol) adaptation** of the incredible [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill).
+This project is an **unofficial MCP (Model Context Protocol) adaptation** of the incredible `ui-ux-pro-max-skill`.
 
 The original repository is an amazing AI "skill" designed to provide design intelligence. **Our goal** was to turn this massive knowledge base from a raw prompt/skill format into a fully functional **MCP Server**. By doing this, we make it infinitely easier for any AI agent (like Claude Desktop, Cursor, or VS Code) to directly query, search, and retrieve these UI/UX guidelines programmatically through standard tool calls, rather than relying on copying and pasting markdown prompts.
 
@@ -117,5 +117,5 @@ To use this server with **Cursor**, **VS Code** (via MCP extension), or **Claude
 }
 ```
 
-## � Acknowledgements
-This project is an MCP wrapper. All core data and design principles are sourced from [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill).
+## 🙏 Acknowledgements
+This project is an MCP wrapper. All core data and design principles are sourced from the original `ui-ux-pro-max-skill` repository.
